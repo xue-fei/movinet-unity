@@ -1,0 +1,10 @@
+
+Library
+Temp
+*.dwlt
+.vsconfig
+Logs
+*.sln
+*.csproj
+.vs
+obj
